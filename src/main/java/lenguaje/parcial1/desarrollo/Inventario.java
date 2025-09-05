@@ -22,4 +22,9 @@ public class Inventario {
      {System.out.println("ejecutando metodo C"); 
      
      }
+     
+     public void metodoD() {
+ System.out.println("ejecutando metodo D");
+ }
+
 }
