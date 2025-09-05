@@ -10,5 +10,7 @@ package lenguaje.parcial1.desarrollo;
  */
 public class Inventario {
 
-   
+    public void metodoA() {        
+        System.out.println("ejecutando metodo A");
+    } 
 }
