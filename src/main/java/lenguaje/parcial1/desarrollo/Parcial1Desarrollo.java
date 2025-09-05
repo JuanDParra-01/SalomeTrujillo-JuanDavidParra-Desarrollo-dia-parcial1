@@ -1,0 +1,16 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ */
+
+package lenguaje.parcial1.desarrollo;
+
+/**
+ *
+ * @author judav
+ */
+public class Parcial1Desarrollo {
+
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
+}
